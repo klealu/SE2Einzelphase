@@ -36,6 +36,15 @@ public class MainActivity extends AppCompatActivity {
         txt2 = findViewById(R.id.editText);
         output1 = findViewById(R.id.first);
 
+        Button send = findViewById(R.id.button);
+        send.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                output1.setText(tcpImpl());
+            }
+        });
+
+
     }
 
     public String tcpImpl(){
