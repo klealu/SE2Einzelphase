@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <person>
+        <name>Klea Lula</name>
+        <matrikelnummer>11834114</matrikelnummer>
+        <lastcommithash>fff5ad1b19534687269d1783cd98e57a9d9dc557</lastcommithash>
+        <githubusername>klealu</githubusername>
+        <repositoryname>SE2Einzelphase</repositoryname>
+    </person>
+</resources>
